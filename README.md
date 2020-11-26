@@ -30,4 +30,4 @@
 
 ---
 
-[![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=phoenix-295)]
+![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=phoenix-295)
